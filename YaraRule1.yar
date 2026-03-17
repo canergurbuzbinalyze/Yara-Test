@@ -2,6 +2,7 @@
 // Type modulename. followed by a CTRL + SPACE
 // Yara documentation: https://yara.readthedocs.io/en/stable/writingrules.html
 // Canertest
+//filechanges
 rule find_string
 {
     meta:
