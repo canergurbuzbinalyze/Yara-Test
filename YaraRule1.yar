@@ -1,7 +1,7 @@
 // Auto-Complete Support:
 // Type modulename. followed by a CTRL + SPACE
 // Yara documentation: https://yara.readthedocs.io/en/stable/writingrules.html
-
+// Canertest
 rule find_string
 {
     meta:
